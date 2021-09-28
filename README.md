@@ -2,7 +2,7 @@
 
 Created a robo-advisor that matches an investment strategy with the investor's risk profile. 
 
-## Risk Assessment and Investment Strategy
+### Risk Assessment and Investment Strategy
 
 The robo-advisor determines the investor's risk profile by scoring answers of an initial questionarre which places the investor into one of three categories: low risk aversity, medium risk aversity, and high risk aversity. 
 
@@ -18,7 +18,7 @@ Additionally, if the investor decides to decide the portfolio optimization techn
 3.	Sortino Ratio 
 4.	Treynor Ratio 
 
-## Monte Carlo Simulation
+### Monte Carlo Simulation
 
 The portfolio weights are then determined by running a Monte Carlo Simulation with 1000 iterations.
 
